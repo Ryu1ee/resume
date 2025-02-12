@@ -22,5 +22,5 @@ Appalachian State University: Senior
 3. Belay Instructor / Route Setter at Appalachian State
 
 ## Certifications
-<img src="/WFR.jpg">
+<img src="WFR.jpg">
 
